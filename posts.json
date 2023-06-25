@@ -1,0 +1,48 @@
+{
+    "posts": [{
+            "id": 1,
+            "title": "The Art of Cooking",
+            "subTitle": "Exploring Flavors and Techniques",
+            "postedBy": "John Smith",
+            "text": "<p>Cooking is an art that has been practiced for centuries...</p>",
+            "img": "/vendor/img/art-of-cooking.jpg",
+            "createdAt": "June 25, 2023"
+        },
+        {
+            "id": 2,
+            "title": "The Power of Music",
+            "subTitle": "Expressing Emotions and Connecting Souls",
+            "postedBy": "Sarah Johnson",
+            "text": "<p>Music is a universal language that transcends boundaries...</p>",
+            "img": "/vendor/img/power-of-music.jpg",
+            "createdAt": "June 24, 2023"
+        },
+        {
+            "id": 3,
+            "title": "The Beauty of Nature",
+            "subTitle": "Finding Serenity in the Great Outdoors",
+            "postedBy": "David Wilson",
+            "text": "<p>Nature has a way of captivating us with its breathtaking beauty...</p>",
+            "img": "/vendor/img/beauty-of-nature.jpg",
+            "createdAt": "June 23, 2023"
+        },
+        {
+            "id": 4,
+            "title": "The Joy of Painting",
+            "subTitle": "Unleashing Creativity through Art",
+            "postedBy": "Emily Brown",
+            "text": "<p>Painting is a form of self-expression that brings joy to many...</p>",
+            "img": "/vendor/img/joy-of-painting.jpg",
+            "createdAt": "June 22, 2023"
+        },
+        {
+            "id": 5,
+            "title": "The World of Photography",
+            "subTitle": "Capturing Moments in Time",
+            "postedBy": "Michael Davis",
+            "text": "<p>Photography allows us to freeze precious moments and preserve memories...</p>",
+            "img": "/vendor/img/world-of-photography.jpg",
+            "createdAt": "June 21, 2023"
+        }
+    ]
+}
